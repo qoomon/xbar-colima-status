@@ -1,0 +1,1 @@
+# xbar-colima-status
