@@ -37,7 +37,7 @@ then
     	exit 0
     fi
 
-    if  (colima status >/dev/null)
+    if colima status >/dev/null
     then
     	echo "|templateImage=$COLIMA_RUNNING_ICON"
     	echo '---'
